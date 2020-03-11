@@ -2,6 +2,13 @@
   "name": "douira custom dark",
   "type": "dark",
   "colors": {
+    "editor.background": "#1d1f21",
+    "editor.foreground": "#abb2bf",
+    "editorCursor.foreground": "#c7c7c7",
+    "editor.selectionBackground": "#424750",
+    "editor.lineHighlightBackground": "#23262d",
+    "editorIndentGuide.activeBackground": "#9d550fb0",
+    "editorWhitespace.foreground": "#383c44",
     "statusBar.background": "#303030",
     "statusBar.debuggingBackground": "#511f1f",
     "statusBar.noFolderBackground": "#49494e"
