@@ -1,0 +1,21 @@
+{
+    "name": "one-dark-fixed",
+    "displayName": "douira custom dark",
+    "description": "One Dark pro with modifications and default UI styling",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "douira custom dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/douira-custom-dark-color-theme.json"
+            }
+        ]
+    }
+}
